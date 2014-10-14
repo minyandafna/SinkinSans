@@ -7,7 +7,7 @@ This `SinkinSans.css` file contains a series of `@font-face` declarations that a
 Problem
 -------
 
-When you download the `sinkin-sans-fontfacekit.zip` file, it includes all the fonts located in subdirectories by font type with their own `stylesheet.css` file containing one `@font-face` declaration for the font type.
+When you download the `sinkin-sans-fontfacekit.zip` file from the [Font Squirrel page](http://www.fontsquirrel.com/fonts/sinkin-sans), it includes all the fonts located in subdirectories by font type with their own `stylesheet.css` file containing one `@font-face` declaration for the font type.
 
 Example of `font-family` in `@font-face` declaration of the Sinkin Sans Thin font:
 
