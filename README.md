@@ -32,6 +32,7 @@ Example
 
 CSS:
 
+    @import url("/assets/font/SinkinSans/SinkinSans.css");
     body {
         font-family: "Sinkin Sans", Helvetica, Arial, sans-serif;
         font-size: 16px;
