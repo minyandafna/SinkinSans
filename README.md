@@ -1,5 +1,5 @@
-SinkinSans @font-face
-=====================
+Sinkin Sans @font-face
+======================
 
 This `SinkinSans.css` file contains a series of `@font-face` declarations that allows the usage of `"Sinkin Sans"` fonts in a more flexible way in your own stylesheet.
 
@@ -32,7 +32,7 @@ Example
 
 CSS:
 
-    @import url("/assets/font/SinkinSans/SinkinSans.css");
+    @import url("/assets/fonts/SinkinSans/SinkinSans.css");
     body {
         font-family: "Sinkin Sans", Helvetica, Arial, sans-serif;
         font-size: 16px;
@@ -82,4 +82,5 @@ CSS:
 HTML:
 
     <p><strong><em>Text</em></strong></p>
+    <p class="medium">Text</p>
     <p class="light italic">Text</p>
