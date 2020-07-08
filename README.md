@@ -1,7 +1,7 @@
 Sinkin Sans @font-face
 ======================
 
-This `SinkinSans.css` file contains a series of `@font-face` declarations that allows the usage of `"Sinkin Sans"` fonts in a more flexible way in your own stylesheet.
+This `SinkinSans.css` file contains a series of `@font-face` declarations that allows the usage of `"Sinkin Sans"` fonts in a more flexible way in your own stylesheet. For minyandafna.
 
 
 Problem
